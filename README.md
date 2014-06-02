@@ -10,7 +10,7 @@ npm install gulp-rename-git
 
 ```
 var gulp = require('gulp'),
-    gitRename = require('./index');
+    gitRename = require('gulp-rename-git');
 
 gulp.task('default', function() {
   return gulp.src('./src/*.js')
