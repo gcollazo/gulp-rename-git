@@ -1,0 +1,11 @@
+{
+  "name": "gulp-rename-git",
+  "version": "0.0.1",
+  "description": "Renames a file and passes a git hash to use on the path",
+  "main": "index.js",
+  "author": "Giovanni Collazo (@gcollazo)",
+  "license": "MIT",
+  "dependencies": {
+    "git-rev": "^0.2.1"
+  }
+}
